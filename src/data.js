@@ -2,38 +2,38 @@ const people = [
   {
     id: 1,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
+      "https://images.unsplash.com/photo-1605092860841-1dd2db13f20a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80",
     name: "maria ferguson",
     title: "office manager",
     quote:
-      "Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok mustache.",
+      "Warm, personal, insightful, collaboration between staff resulting in personalized care for clients.",
   },
   {
     id: 2,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
+      "https://images.unsplash.com/photo-1653983539803-4b9890500bf5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
     name: "john doe",
-    title: "regular guy",
+    title: "web developer",
     quote:
-      "Gastropub sustainable tousled prism occupy. Viral XOXO roof party brunch actually, chambray listicle microdosing put a bird on it paleo subway tile squid umami.",
+      "Lots of hands on training in all fields of inspection. Great company to start and build a career with!",
   },
   {
     id: 3,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg",
+      "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
     name: "peter smith",
     title: "product designer",
     quote:
-      "Drinking vinegar polaroid street art echo park, actually semiotics next level butcher master cleanse hammock flexitarian ethical paleo.",
+      "Easy work, great atmosphere, nice people love the outdoors. This is some thing I have been doing all my life so it does not feel like work.",
   },
   {
     id: 4,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
+      "https://images.unsplash.com/photo-1576610197575-6629112c6b21?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
     name: "susan andersen",
-    title: "the boss",
+    title: "web designer",
     quote:
-      "Marfa af yr 3 wolf moon kogi, readymade distillery asymmetrical seitan kale chips fingerstache cloud bread mustache twee messenger bag. ",
+      "This place is amazing the people are amazing. It builds character and is a fast paced place to work overall you'll like what your getting your self into.",
   },
 ];
 
