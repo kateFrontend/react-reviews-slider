@@ -4,6 +4,14 @@
   <img src="03.JPG" alt="image" width="auto">
 </div>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<p>React slider functionality using useState and useEffect hooks and setInterval for auto changing slides.</p>
+
+  <p>
+    <a href="https://react-slider-reviews.netlify.app/">View Demo Here</a>
+  </p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Run project
